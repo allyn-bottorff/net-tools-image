@@ -1,0 +1,21 @@
+* Net Tools
+
+A container image with tools for troubleshooting networking from within
+containerized environments like Kubernetes. (Based on Alpine)
+
+
+** Tools
+
+- curl
+- bash
+- netcat
+- socat
+- nmap
+- dig
+- vim
+- jq
+- yq
+- python
+- step
+- openssl
+
